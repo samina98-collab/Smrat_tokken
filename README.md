@@ -76,7 +76,7 @@ For any questions or support regarding the `TokenBasedSubscription` contract, pl
 
 - **Name:** Samina Sultana Ahmed
 - **Email:** mbegum6424@gmail.com
-- **GitHub:** 
+- **GitHub:** https://github.com/samina98-collab/Smrat_tokken
 
 Feel free to reach out for inquiries, feedback, or contributions to the project.
 
